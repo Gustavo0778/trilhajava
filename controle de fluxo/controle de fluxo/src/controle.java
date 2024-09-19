@@ -3,11 +3,11 @@ public class controle {
       double saldo =25.0;
       double valorSolicitado = 28.0;
       
-      if (valorSolicitado < saldo)
+      if (valorSolicitado < saldo){
         saldo =saldo -valorSolicitado;
        
 
-        else
+       }else
        System.out.println("saldo insuficiente! " + saldo);
        System.out.println(saldo);
     }
