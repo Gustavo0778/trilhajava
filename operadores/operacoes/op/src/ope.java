@@ -1,7 +1,7 @@
-public class nasci {
+public class ope {
     public static void main(String[] args) throws Exception {
-       int idade = 39, anoAtual =2024;
-       int anoNascimento = anoAtual - idade;
-       System.out.println("O ano de nascimento é: " + anoNascimento);
+       int x = 10;
+       double y = x /3 ;
+       System.out.println("o resultado e: " + y); 
     }
 }
