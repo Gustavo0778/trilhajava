@@ -10,5 +10,5 @@ public class encandeadas {
 
         else
         System.out.println("Reprovado");
-    }
+   }
 }
