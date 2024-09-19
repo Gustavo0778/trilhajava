@@ -1,2 +1,0 @@
-# trilhajava
-exemplos e exercicios

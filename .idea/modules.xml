@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/operadores/App.java/App.java.iml" filepath="$PROJECT_DIR$/operadores/App.java/App.java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/about me/about me.iml" filepath="$PROJECT_DIR$/about me/about me.iml" />
+      <module fileurl="file://$PROJECT_DIR$/operadores/metodos/metodos.java/metodos.java.iml" filepath="$PROJECT_DIR$/operadores/metodos/metodos.java/metodos.java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/operadores/operadores/operadores.iml" filepath="$PROJECT_DIR$/operadores/operadores/operadores.iml" />
+      <module fileurl="file://$PROJECT_DIR$/palavrasreservadas/palavrasreservadas.iml" filepath="$PROJECT_DIR$/palavrasreservadas/palavrasreservadas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/operadores/metodos/smarttv.java/smarttv.java.iml" filepath="$PROJECT_DIR$/operadores/metodos/smarttv.java/smarttv.java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/trilhajava.iml" filepath="$PROJECT_DIR$/.idea/trilhajava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/variaveise  e tipos/variaveise  e tipos.iml" filepath="$PROJECT_DIR$/variaveise  e tipos/variaveise  e tipos.iml" />
+    </modules>
+  </component>
+</project>
